@@ -11,9 +11,9 @@ namespace GigOficial.Controllers
         // GET: Movie
         public ActionResult Index()
         {
-            var result = "hola";
+          
 
-            return View(result);
+            return View();
         }
     }
 }
